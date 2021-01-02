@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=300&section=header&text=hello&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=400&section=header&text=hello&fontSize=100)
 
 <div align="center">
   <h2>
@@ -8,7 +8,7 @@
   <h2>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=300&section=footer&text=&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=400&section=footer&text=&fontSize=70)
 
 <!--
 **he-reme/he-reme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
