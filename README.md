@@ -5,11 +5,11 @@
     Hi there 👋
   <h2>
     
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C%2B%2B-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C Sharp-3766AB?style=flat-square&logo=C Sharp&logoColor=white"/></a>
   
   <img src="https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=300&section=footer&text=hello&fontSize=90" />
 
