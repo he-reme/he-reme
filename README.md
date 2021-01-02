@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=200&section=header&text=hello&fontSize=100)
 
-# <center> Hi there 👋 </center>
+# <div align="center">
+  Hi there 👋
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=200&section=footer&text=&fontSize=70)
 
