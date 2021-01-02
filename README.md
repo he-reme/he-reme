@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=300&section=header&text=hello&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=200&section=header&text=hello&fontSize=90" />
 
   <h2>
     Hi there 👋
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   
-  <img src="https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=300&section=footer&text=hello&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=200&section=footer&text=&fontSize=90" />
 
 </div>
 <!--
