@@ -1,10 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=200&section=header&text=hello&fontSize=90" />
 
-  <h2>
-    Hi there 👋
-  <h2>
-    
+  <h2> he_reme 👋 </h2>
+   
+  <h3> 🎈 so so ??? 🎈  </h3> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
