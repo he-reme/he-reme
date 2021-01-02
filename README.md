@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**he-reme/he-reme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![header](https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=200&section=header&text=hello&fontSize=100)
 
 
@@ -13,6 +10,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&animation=blinking&color=auto&height=200&section=footer&text=&fontSize=70)
 
+<!--
+**he-reme/he-reme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
